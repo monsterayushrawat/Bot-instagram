@@ -576,8 +576,8 @@ PAGE_HTML = """<!DOCTYPE html>
 
     <div class="shell">
         <div class="brandbar">
-            <h1><i class="fas fa-robot"></i>Premium Bot v4.5</h1>
-            <p>✅ Admin Panel • Commands • Anti-Logout • Render Ready</p>
+            <h1><i class="fas fa-robot"></i>INSTAGRAM BOT v4.5</h1>
+            <p> 👹 UNLEASH THE MONSTER — Your Instagram Chatbot That Never Sleeps</p>
         </div>
 
         <div class="pagedots">
